@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -39,3 +40,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # Flinner
 dashboards, analyst-grade valuation tools, and data-driven insights
 >>>>>>> c507b734d17077c1541f32a0fdad75d0e6c4b057
+=======
+
+>>>>>>> 7732d045ac89bf1ec531150c0cc2cfff57b182ed
